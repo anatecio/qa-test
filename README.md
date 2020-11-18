@@ -20,8 +20,9 @@ Here is a (very short) description of the api.
 
 > GET api/users/:user_id/adverts
 
+A possible (200) response:
+
 ```
-An example of result:
 {
   adverts: [
     {
